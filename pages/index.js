@@ -8,7 +8,7 @@ export default function Home() {
     <div>
      <Nav />
 
-    <h1>Pagina web en desarrollo" 💻🚀✨</h1>
+    <h1>Pagina web en desarrollo... 💻🚀✨</h1>
    </div>
   )
 }
